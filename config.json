@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsserify",
+        "uuid": 755588,
+        "checksum": "36vtgm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
